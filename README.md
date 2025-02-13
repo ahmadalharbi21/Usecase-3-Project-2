@@ -7,8 +7,8 @@
 ## Overview
 This repository contains a Jupyter Notebook designed for Exploratory Data Analysis (EDA). The notebook provides a structured approach to analyzing datasets, identifying patterns, and visualizing key insights.
 ## Datasets
-- shanghai_ranking_2024: https://www.kaggle.com/datasets/computingvictor/2024-academic-ranking-of-world-universities
-- Times World University Rankings 2024: https://www.kaggle.com/datasets/ddosad/timesworlduniversityrankings2024
+- shanghai_ranking_2024: https://www.shanghairanking.com/rankings/arwu/2024
+- World University Rankings 2024: https://cwur.org/2024.php
 - Times Higher Education World University Rankings 2024: https://www.timeshighereducation.com/world-university-rankings/2024/world-ranking
 ## Four Key Steps of EDA
 ### 1️- Data Profiling  
